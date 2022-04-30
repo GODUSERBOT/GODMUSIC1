@@ -64,21 +64,21 @@ async def start_private(client: Client, message: Message):
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
                 ],
                 [
-                    InlineKeyboardButton("📚 Commands", url=f"http://telegra.ph/ᴄᴏᴍᴍᴀɴᴅs-ᴏғ-ʀᴏᴄᴋᴇʀᴢ-01-10"),
-                    InlineKeyboardButton("❤️ Donate", url=f"https://t.me/xmartperson"),
+                    InlineKeyboardButton("📚 Commands", url=f"http://telegra.ph/ᴄᴏᴍᴍᴀɴᴅs-ᴏғ-ɢᴏᴅs-01-10"),
+                    InlineKeyboardButton("❤️ Donate", url=f"https://t.me/MRINVISIBLE_OFFICIAL"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/Rockerz_Support"
+                        "👥 Official Group", url=f"https://t.me/Goduserbot_support"
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/Xmarty_Support"
+                        "📣 Official Channel", url=f"https://t.me/Goduserbot_support"
                     )
                 ],
                 
                 [
                     InlineKeyboardButton(
-                        "💕 Source", url="https://github.com/S780821/Rockerz_Muzic"
+                        "💕 Source", url="https://github.com/GODUSERBOT/GODMUSIC1"
                     )
                 ],
             ]
@@ -98,9 +98,9 @@ async def start_group(client: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("✨ Group", url=f"https://t.me/Rockerz_Support"),
+                InlineKeyboardButton("✨ Group", url=f"https://t.me/Goduserbot_support"),
                 InlineKeyboardButton(
-                    "📣 Channel", url=f"https://t.me/Xmarty_Support"
+                    "📣 Channel", url=f"https://t.me/Goduserbot_support"
                 ),
             ]
         ]
