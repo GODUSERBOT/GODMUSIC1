@@ -1,15 +1,15 @@
-# Rockerz_Muzic
+# GODS_Muzic
 
-<p align="center"><a href="https://t.me/Rockerz_Muzic_Bot"><img src="https://github.com/S780821/Rockerz_Muzic/raw/Xmarty/ImageFont/Rockerz.png"></a></p>
+<p align="center"><a href="https://t.me/MRINVISIBLE_OFFICIAL"><img src="https://github.com/GODUSERBOT/GODMUSIC2/raw/Xmarty/ImageFont/Gods.png"></a></p>
 
 ## Heroku Deployment 
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/S780821/Rockerz_Muzic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/GODUSERBOT/GODMUSIC1"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 ### 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@S780821/RoCkErZSeSsioN) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@GODUSERBOT) ``Pyrogram``
 
 ## Commands 🛠
 
@@ -68,4 +68,4 @@ sudo python3 main.py # run the bot.
 
 
 ### Support & Updates 🎑
-<a href="https://t.me/Rockerz_Support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Xmarty_Support"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Goduserbot_support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Goduserbot_support"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
