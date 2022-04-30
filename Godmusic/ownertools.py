@@ -19,8 +19,8 @@ from config import (
 )
 from git import Repo
 from git.exc import GitCommandError, InvalidGitRepositoryError
-from RockMuzic.song import get_text, humanbytes
-from RockMuzic import __version__
+from Gods.song import get_text, humanbytes
+from Gods import __version__
 from helpers.database import db
 from helpers.dbtools import main_broadcast_handler
 from helpers.decorators import sudo_users_only
