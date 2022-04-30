@@ -1,7 +1,7 @@
 
 
 from os import path
-import Rockerz.converter
+import Gods.converter
 from callsmusic import callsmusic, queues
 from config import (
     AUD_IMG,
@@ -11,7 +11,7 @@ from config import (
     QUE_IMG,
     UPDATES_CHANNEL,
 )
-from RockMuzic.play import convert_seconds
+from GodMusic.play import convert_seconds
 from helpers.filters import command, other_filters
 from helpers.gets import get_file_name
 from pyrogram import Client
