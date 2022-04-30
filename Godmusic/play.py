@@ -7,8 +7,8 @@ import aiofiles
 import aiohttp
 import ffmpeg
 import requests
-from Rockerz.converter import converter
-from Rockerz.cache.admins import admins as a
+from Gods.converter import converter
+from Gods.cache.admins import admins as a
 from callsmusic import callsmusic
 from callsmusic.callsmusic import client as USER
 from callsmusic.queues import queues
@@ -23,7 +23,7 @@ from config import (
     UPDATES_CHANNEL,
     que,
 )
-from Rockerz.downloaders import youtube
+from Gods.downloaders import youtube
 from helpers.admins import get_administrators
 from helpers.channelmusic import get_chat_id
 from helpers.chattitle import CHAT_TITLE
@@ -121,9 +121,9 @@ async def playlist(client, message):
         [
             [
                 InlineKeyboardButton(
-                    "• Gʀᴏᴜᴘ", url=f"https://t.me/ROCKERZ_SUPPORT"),
+                    "• Gʀᴏᴜᴘ", url=f"https://t.me/Goduserbot_support"),
                 InlineKeyboardButton(
-                    "• Cʜᴀɴɴᴇʟ", url=f"https://t.me/Xmarty_Support"
+                    "• Cʜᴀɴɴᴇʟ", url=f"https://t.me/Goduserbot_support"
                 ),
             ]
         ]
@@ -264,9 +264,9 @@ async def p_cb(b, cb):
         [
             [
                 InlineKeyboardButton(
-                    "• Gʀᴏᴜᴘ", url=f"https://t.me/Rockerz_Support"),
+                    "• Gʀᴏᴜᴘ", url=f"https://t.me/Goduserbot_support"),
                 InlineKeyboardButton(
-                    "• Cʜᴀɴɴᴇʟ", url=f"https://t.me/Xmarty_Support"
+                    "• Cʜᴀɴɴᴇʟ", url=f"https://t.me/Goduserbot_support"
                 ),
             ],
             [InlineKeyboardButton("🔙 Go Back", callback_data="menu")],
@@ -313,9 +313,9 @@ async def m_cb(b, cb):
         [
             [
                 InlineKeyboardButton(
-                    "• Gʀᴏᴜᴘ", url=f"https://t.me/Rockerz_Support"),
+                    "• Gʀᴏᴜᴘ", url=f"https://t.me/Goduserbot_support"),
                 InlineKeyboardButton(
-                    "• Cʜᴀɴɴᴇʟ", url=f"https://t.me/Xmarty_Support"
+                    "• Cʜᴀɴɴᴇʟ", url=f"https://t.me/Goduserbot_support"
                 ),
             ],
             [InlineKeyboardButton("🔙 Go Back", callback_data="menu")],
@@ -575,9 +575,9 @@ async def ytplay(_, message: Message):
         [
             [
 
-                    InlineKeyboardButton(text="💫 𝙲𝙷𝙰𝙽𝙽𝙴𝙻✨", url=f"https://t.me/xmarty_Support"),
+                    InlineKeyboardButton(text="💫 𝙲𝙷𝙰𝙽𝙽𝙴𝙻✨", url=f"https://t.me/Goduserbot_support"),
 
-                    InlineKeyboardButton(text="💫𝚂𝚄𝙿𝙿𝙾𝚁T✨", url=f"https://t.me/Rockerz_Support")
+                    InlineKeyboardButton(text="💫𝚂𝚄𝙿𝙿𝙾𝚁T✨", url=f"https://t.me/Goduserbot_support")
 ]
             ]
     )
