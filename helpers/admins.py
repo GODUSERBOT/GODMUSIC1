@@ -1,9 +1,9 @@
-import Rockerz.cache.admins
+import Gods.cache.admins
 from typing import List
 
 from pyrogram.types import Chat
-from Rockerz.cache.admins import get as gett
-from Rockerz.cache.admins import set
+from Gods.cache.admins import get as gett
+from Gods.cache.admins import set
 
 
 async def get_administrators(chat: Chat) -> List[int]:
