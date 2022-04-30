@@ -1,13 +1,13 @@
 {
-    "name": "Rockerz Muzic",
-    "logo": "https://telegra.ph/file/95c333a0e464b4ee1228f.jpg",
-    "description": "Rock Music allow you to stream music trought the telegram voice chat feature.",
+    "name": "God Music",
+    "logo": "https://te.legra.ph/file/19d4ad2c1d80512f4a5d2.jpg",
+    "description": "God Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": [
         "music", 
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/S780821/Rockerz_Muzic",
+    "repository": "https://github.com/GODUSERBOT/GODMUSIC1",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -51,7 +51,7 @@
         "BG_IMAGE": {
             "description": "fill with your costum background image link",
             "required": false,
-            "value": "https://telegra.ph/file/7044eb234440df0e6a5b8.png"
+            "value": "https://te.legra.ph/file/19d4ad2c1d80512f4a5d2.jpg"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram username without @",
